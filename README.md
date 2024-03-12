@@ -2,8 +2,14 @@
 
 I am a 25-year-old developer based in Dubai, and I am passionate about crafting digital experiences.
 
-
-
+## 📦 Toolbox
+**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Framer-Motion`
+**Backend Development:** `Python` `Rust` `C#` `Go` `Swift`
+**Mobile Development:**
+**Machine Learning:**
+**Cyper Security:**
+**Network:**
+**Hardware:**
 <!--
 **a-abuzahra/a-abuzahra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
