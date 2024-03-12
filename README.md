@@ -2,6 +2,10 @@
 
 I am a 25-year-old developer based in Dubai, and I am passionate about crafting digital experiences.
 
+- Check out my [website]() to learn more about me.
+- Explore my [blog]() where I share insights and learnings.
+- Linkedin profile [linkedin]() 
+
 ## 📦 Toolbox
 
 **Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Framer-Motion`
