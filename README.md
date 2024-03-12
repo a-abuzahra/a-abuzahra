@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey, I'm Ammar 👋
+
+I am a 25-year-old developer based in Dubai, and I am passionate about crafting digital experiences.
+
+
 
 <!--
 **a-abuzahra/a-abuzahra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
