@@ -4,7 +4,7 @@ I am a 25-year-old developer based in Dubai, and I am passionate about crafting 
 
 - Check out my [website]() to learn more about me.
 - Explore my [blog]() where I share insights and learnings.
-- Linkedin profile [linkedin]() 
+
 
 ## 📦 Toolbox
 
@@ -21,6 +21,10 @@ I am a 25-year-old developer based in Dubai, and I am passionate about crafting 
 **Network:**
 
 **Hardware:**
+
+## 📫 Contact
+
+ For a quick response, DM me on [LinkedIn](). 
 <!--
 **a-abuzahra/a-abuzahra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
