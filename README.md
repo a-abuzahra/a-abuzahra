@@ -16,7 +16,7 @@ I am a 25-year-old developer based in Dubai, and I am passionate about crafting 
 
 **Machine Learning:**
 
-**Cyper Security:**
+**Cyber Security:**
 
 **Network:**
 
